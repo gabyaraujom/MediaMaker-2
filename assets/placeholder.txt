@@ -1,0 +1,6 @@
+This file is a placeholder to ensure the assets directory is created. 
+Actual audio files should be placed in this directory with these expected filenames:
+
+depoimento.mp4 - For the testimonial audio
+
+Note: In a real environment, you would need to add the actual audio/video files.
